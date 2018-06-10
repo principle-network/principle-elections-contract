@@ -1,0 +1,27 @@
+# dependencies
+/node_modules
+
+# s3 tmp
+/.tmp
+
+# env config
+/.env
+
+# IDE
+/.idea
+/.awcache
+/.vscode
+
+# misc
+npm-debug.log
+
+# example
+/quick-start
+
+# tests
+/test
+/coverage
+/.nyc_output
+
+# dist
+/dist
